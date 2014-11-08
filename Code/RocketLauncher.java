@@ -1,8 +1,13 @@
 
 public class RocketLauncher implements Weapon{
 	public int Ammo;
+	public static int DAMAGE;
 	public RocketLauncher(){}
-	public int getAmmo(){}
-	public int getDamage(){}
+	public int getAmmo(){
+		return Ammo;
+	}
+	public int getDamage(){
+		return DAMAGE;
+	}
 
 }

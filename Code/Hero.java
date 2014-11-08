@@ -3,7 +3,7 @@ public class Hero {
 	private int HP;
 	private double waitTime = 0.25;
 	private double timeLastFired;
-	private Weapon[] weapons();
+	private Weapon[] weapons;
 	
 	
 	public Hero(){
