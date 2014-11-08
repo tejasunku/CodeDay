@@ -1,2 +1,3 @@
-CodeDay
-=======
+SuperDoge v2
+============
+
